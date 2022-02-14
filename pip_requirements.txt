@@ -1,0 +1,58 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1605523041333/work
+backports.entry-points-selectable==1.1.1
+blinker==1.4
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1606236101993/work
+chardet @ file:///home/conda/feedstock_root/build_artifacts/chardet_1607673832666/work
+coreapi==2.3.3
+coreschema==0.0.4
+coverage @ file:///home/conda/feedstock_root/build_artifacts/coverage_1614551281347/work
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1607606139295/work
+defusedxml==0.6.0
+distlib==0.3.4
+dj-rest-auth @ file:///home/conda/feedstock_root/build_artifacts/dj-rest-auth_1628336299745/work
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1605703082934/work
+django-allauth==0.41.0
+django-cors-headers @ file:///home/conda/feedstock_root/build_artifacts/django-cors-headers_1618338117247/work
+django-filter @ file:///home/conda/feedstock_root/build_artifacts/django-filter_1601214336459/work
+django-rest-auth @ file:///home/conda/feedstock_root/build_artifacts/django-rest-auth_1603573980251/work
+django-templated-mail==1.1.1
+djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1601312268278/work
+djangorestframework-simplejwt==4.6.0
+djoser==2.1.0
+filelock==3.4.0
+httpie @ file:///home/conda/feedstock_root/build_artifacts/httpie_1602639631937/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1606885585839/work
+itypes==1.2.0
+Jinja2==2.11.3
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1603668500820/work
+MarkupSafe==1.1.1
+oauthlib==3.0.1
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1604748700719/work
+pipenv==2021.11.23
+platformdirs==2.4.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1603558917696/work
+PyJWT==1.7.1
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1602326928339/work
+python-http-client==3.1.0
+python3-openid @ file:///home/conda/feedstock_root/build_artifacts/python3-openid_1602326753687/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1604321279890/work
+PyYAML==5.4.1
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+sendgrid==6.0.5
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+social-auth-app-django==4.0.0
+social-auth-core==4.1.0
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1602142927465/work
+uritemplate==3.0.1
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1605225765842/work
+virtualenv==20.10.0
+virtualenv-clone==0.5.7
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1620898604979/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
